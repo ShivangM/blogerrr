@@ -17,7 +17,7 @@ const Header = (props: Props) => {
             alt="Logo"
           />
         </Link>
-        <h1>Next Blogs</h1>
+        <h1>Blogger</h1>
       </div>
       <div className="px-5 py-3 text-sm md:text-base bg-gray-900 text-yellow-500 flex items-center rounded-full text-center">
         <Link href="/auth">Signup/Login</Link>
